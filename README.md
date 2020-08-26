@@ -12,3 +12,6 @@ I used the pretrained Model provided by Mozilla for the inferenz, you can downlo
 GitHub Page:
 
 https://github.com/mozilla/STT/releases
+
+
+Place the Model in the models folder and check if the naming is correct.
