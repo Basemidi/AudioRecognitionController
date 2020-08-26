@@ -1,0 +1,16 @@
+/*color: #16B5FF*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#test{
+    color:#8edbff;
+    font-size: 48px;
+    text-align: center;
+}
+.loadvid{
+    width:50%;
+    margin:0 auto
+}
